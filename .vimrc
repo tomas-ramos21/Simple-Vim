@@ -41,6 +41,6 @@ set statusline+=\ --
 set statusline+=\ %l:%c
 set statusline+=\ --
 set fillchars=stl:-
-
-
 set fillchars+=stlnc:-  " also fill inactive buffers
+
+set autoindent
